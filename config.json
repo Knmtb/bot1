@@ -1,0 +1,9 @@
+{
+	"ip":"node1.magmanode.com",
+	"port": "41576",
+	"name": "KentCraftBOT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register kent3344 ",
+	"login-cmd":"/login kent3344 "
+}
